@@ -1,14 +1,14 @@
 ## Descripción ##
-- Página estática sobre una tienda online de venta de guitarras.
-- Hecha con HTML, CSS, SASS, Gulp y Bootstrap 5.
+Página estática sobre una tienda online de venta de guitarras.
+Hecha con HTML, CSS, SASS, Gulp y Bootstrap 5.
 
 ## Ver página en vivo ##
-- <a target="_blank" href="https://guillezo93.github.io/guitarLA/">Ver Demo</a>
-  
+- [Ver Demo](https://guillezo93.github.io/guitarLA/)
+
    
 ## Autor ##
 - Guillermo Zacarias
-- <a target="_blank" href="https://guillermozdev.netlify.app/">Portfolio</a>
+- [Portfolio Web](https://guillermozdev.netlify.app)
  
 
 ## Instalación ##
