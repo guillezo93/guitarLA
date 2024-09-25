@@ -7,8 +7,9 @@
   
    
 ## Autor ##
- - <a target="_blank" href="https://guillermozdev.netlify.app/">Portfolio</a>
- - Guillermo Zacarias
+- Guillermo Zacarias
+- <a target="_blank" href="https://guillermozdev.netlify.app/">Portfolio</a>
+ 
 
 ## Instalación ##
 No necesita instalación, simplemente ingresa al enlace de GitHub Pages para ver la página en vivo.
